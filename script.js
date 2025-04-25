@@ -8,7 +8,7 @@ var typed = new Typed("#element", {
 
   function downloadCV() {
     // Replace 'path_to_your_cv.pdf' with the actual path to your CV file
-    const cvPath = 'ekantResume.pdf';
+    const cvPath = 'Ekant_Kumar_Resume.pdf';
     
     // Create an anchor element
     const link = document.createElement('a');
